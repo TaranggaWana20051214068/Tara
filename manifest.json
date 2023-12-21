@@ -1,0 +1,33 @@
+{
+  "name": "tara-v1.1.1",
+  "short_name": "tara",
+  "description": "Aplikasi Punya Tara",
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#284b63",
+  "background_color": "#d9d9d9",
+  "screenshots": [
+    {
+      "src": "img/ss-1-1.png",
+      "sizes": "512x512",
+      "form_factor": "wide"
+    },
+    {
+      "src": "img/ss-2-1.png",
+      "sizes": "512x512"
+    }
+  ],
+  "icons": [
+    {
+      "src": "img/logo-tara-1.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/logo-tara-2.png",
+      "type": "image/png",
+      "sizes": "320x320"
+    }
+  ]
+}
